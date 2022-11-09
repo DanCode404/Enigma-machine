@@ -1,0 +1,13 @@
+
+#components
+plugboard = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+#German Railway  7 February 1941
+rotor1 = "JGDQOXUSCAMIFRVTPNEWKBLZYH"
+rotor2 = "NTZPSFBOKMWRCJDIVLAEYUXHGQ"
+rotor3 = "JVIUBHTCDYAKEQZPOSGXNRMWFL"
+rotor4 = "QYHOGNECVPUZTFDJAXWMKISRBL"
+
+test = "bob"
+
+turn1 = test
